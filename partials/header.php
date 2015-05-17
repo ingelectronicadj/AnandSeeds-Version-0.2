@@ -181,12 +181,11 @@
               <li class="sub-menu">
                   <a href="javascript:;" >
                       <i class="fa fa-desktop"></i>
-                      <span>UI Elements</span>
+                      <span>Esquemas</span>
                   </a>
                   <ul class="sub">
-                      <li><a  href="general.html">General</a></li>
-                      <li><a  href="buttons.html">Buttons</a></li>
-                      <li><a  href="panels.html">Panels</a></li>
+                      <li><a  href="estado_rel">Estado-Relación</a></li>
+                      <li><a  href="arquitectura">Arquitectura de conexión</a></li>
                   </ul>
               </li>
 
