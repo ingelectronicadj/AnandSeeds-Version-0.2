@@ -1,6 +1,6 @@
-# anand-seeds
+# Anand Seeds
 This project is about "soberanía alimentaria" for our communities and world.
-# we use this projects
+# We use this projects
 * Dashgun as Theme:
 http://www.blacktie.co/2014/07/dashgum-free-dashboard/
 * Klein.php as PHP routing library:
