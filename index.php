@@ -17,10 +17,21 @@ $klein->respond(function ($request, $response, $service) {
 // Home page view
 $klein->respond('/', function ($request, $response, $service) {
     // add some data to the view.
-    $service->pageTitle = 'Home page';
+    $service->pageTitle = 'Página Principal';
 
     // This is the function that renders the view inside the layout.
     $service->render('views/home.php');
+});
+
+// Home page view
+$klein->respond('/login', function ($request, $response, $service) {
+    $service->pageTitle = 'Log in';
+    $service->render('views/login.php');
+});
+
+$klein->respond('/registrarse', function ($request, $response, $service) {
+    $service->pageTitle = 'Registro';
+    $service->render('views/registro.php');
 });
 
 $klein->dispatch();
