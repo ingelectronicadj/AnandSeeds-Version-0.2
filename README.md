@@ -1,5 +1,7 @@
 # Anand Seeds
 This project is about "soberanía alimentaria" for our communities and world.
+![Logo](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/11377318_889870464406345_7398053809933097278_n.png?oh=ace622db0b0755af3662438cba21f4de&oe=55EAEAB6&__gda__=1441579881_36e8e39b16c628cfefd43073a4319829)
+
 ### We use this projects ###
 * Dashgun as Theme:
 http://www.blacktie.co/2014/07/dashgum-free-dashboard/
