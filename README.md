@@ -8,7 +8,7 @@ https://github.com/chriso/klein.php
 * PDO Database Class as Database Class:
 https://github.com/indieteq/PHP-MySQL-PDO-Database-Class
 
-<p align="center"><em><strong>APORTES PARA LA CUARTA REVOLUCION VERDE:</strong> Softaware y Hardware libre para una sociedad libre.</em></p>
+<p align="center"><em><strong>APORTES PARA LA CUARTA REVOLUCION VERDE:</strong> Softaware y Hardware para la soberanía alimentaria.</em></p>
 
 Este proyecto de desarrollo colaborativo, esta basado en [Métodologías ágiles para el desarrollo de software: eXtreme Programming (XP)](http://www.cyta.com.ar/ta0502/v5n2a1.htm)
 
